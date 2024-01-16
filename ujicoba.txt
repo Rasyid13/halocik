@@ -27,3 +27,4 @@ Teknisi dapat menyelesaikan tiket
 Pengguna dapat menambahkan device/perangkat yang menjadi tanggungjawabnya
 Pengguna dapat mengajukan pertanyaan terkait kendala
 Pengguna dapat mengajukan remote ke OS mereka
+Teknisi dapat menambahkan perangkat ke database
