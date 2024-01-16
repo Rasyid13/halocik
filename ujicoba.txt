@@ -1,0 +1,29 @@
+Mencoba membuat projek pengelolaan perangkat IT yang terkoordinasikan dengan IT support helpdesk
+langakah pengerjaan:
+1. desain aplikasi:
+-arsitektur aplikasi
+-algoritma dan logika aplikasi
+-UI
+
+2. implementasi
+-arsitektur aplikasi
+-algoritma dan logika aplikasi
+-UI
+
+3. Pengujian
+-uji fungsi
+-keamanan
+-kinerja
+
+4. pemeliharaan
+
+
+Aplikasi ini memiliki fitur-fitur berikut:
+
+Pengguna dapat membuat tiket untuk melaporkan masalah
+Pengguna dapat melihat status tiket mereka
+Teknisi dapat melihat tiket yang belum terselesaikan
+Teknisi dapat menyelesaikan tiket
+Pengguna dapat menambahkan device/perangkat yang menjadi tanggungjawabnya
+Pengguna dapat mengajukan pertanyaan terkait kendala
+Pengguna dapat mengajukan remote ke OS mereka
